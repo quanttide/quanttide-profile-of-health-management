@@ -27,6 +27,7 @@
 | `function` | 功能定位（本仓库的核心标注字段） |
 | `role` | 角色：核心工具 / 专项补充 / 深度筛查 |
 | `items` | 题量 |
+| `items_status` | 题目清单状态（complete=已含官方核对完整题目） |
 | `dimensions` | 维度列表 |
 | `response_scale` | 作答刻度 |
 | `scoring` | 计分方式 |
