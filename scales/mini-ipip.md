@@ -90,13 +90,8 @@ disclaimer: 本测试结果仅供参考，不构成医疗诊断
 - 各维度 4 题（转换后）得分相加即为该维度总分（4–20 分）
 - 官方维度名为 Neuroticism（高分=情绪不稳定）；产品侧如需"情绪稳定性"指标，取反向解释（高分=稳定）即可
 
-> 注意：`data/context/ipip-daily-tracking-scales.md` 中情绪稳定性示例题（"我经常感到焦虑"等）来自另一中文改编版本，与官方条目不同；正式使用以本档案官方条目为准。
+> 注意：网上流传的中文示例题（如"我经常感到焦虑"）来自另一中文改编版本，与官方条目不同；正式使用以本档案官方条目为准。
 
 ## 使用条款
 
 - **公共领域（Public Domain）**，可免费用于商业用途（IPIP 官方明确标注）
-
-## 关联语境
-
-- `data/context/ipip-daily-tracking-scales.md` —— 日常追踪量表选型语境
-- `data/context/ipip-assessment-placement.md` —— IPIP 产品归属决策语境

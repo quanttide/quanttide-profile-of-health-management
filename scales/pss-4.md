@@ -47,7 +47,3 @@ disclaimer: 本测试结果仅供参考，不构成医疗诊断
 ## 使用条款
 
 - 原作者公开提供、无需许可即可使用，注明引用即可：Cohen, S., & Williamson, G. (1988)；4 题版见 Warttig, S. L., et al. (2013)
-
-## 关联语境
-
-- `data/context/ipip-daily-tracking-scales.md` —— 日常追踪量表选型语境（多项研究将其与 Mini-IPIP 结合使用）

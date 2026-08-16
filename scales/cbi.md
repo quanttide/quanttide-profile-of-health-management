@@ -101,7 +101,3 @@ disclaimer: 本测试结果仅供参考，不构成医疗诊断
 
 - 丹麦 NFA 公开分发、免费使用，无需申请许可，可用于商业用途（含商业 SaaS）
 - 已有中文版本可直接参考（以官方发布版本为准）
-
-## 关联语境
-
-- `data/context/burnout-scale-selection.md` —— 倦怠量表选型语境（CBI 首选决策，及 OLBI/BAT 备选对比）
